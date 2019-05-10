@@ -71,8 +71,9 @@
       <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
-      <path value="$PROJECT_DIR$/vendor/bower-asset/semantic" />
       <path value="$PROJECT_DIR$/vendor/zelenin/yii2-semantic-ui" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/semantic" />
+      <path value="$PROJECT_DIR$/vendor/bower/semantic" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
