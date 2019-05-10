@@ -74,6 +74,11 @@
       <path value="$PROJECT_DIR$/vendor/zelenin/yii2-semantic-ui" />
       <path value="$PROJECT_DIR$/vendor/bower-asset/semantic" />
       <path value="$PROJECT_DIR$/vendor/bower/semantic" />
+      <path value="$PROJECT_DIR$/vendor/bower/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/bower/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/bower/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/bower/punycode" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
